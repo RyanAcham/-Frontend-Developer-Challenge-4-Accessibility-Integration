@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Frontend-Developer-Challenge-4-Accessibility-Integration/static/css/main.5d21b520.css",
-    "main.js": "/Frontend-Developer-Challenge-4-Accessibility-Integration/static/js/main.b3a51a98.js",
+    "main.css": "/Frontend-Developer-Challenge-4-Accessibility-Integration/static/css/main.27fe4347.css",
+    "main.js": "/Frontend-Developer-Challenge-4-Accessibility-Integration/static/js/main.01f3bd9b.js",
     "static/js/787.41c4a2ad.chunk.js": "/Frontend-Developer-Challenge-4-Accessibility-Integration/static/js/787.41c4a2ad.chunk.js",
     "index.html": "/Frontend-Developer-Challenge-4-Accessibility-Integration/index.html",
-    "main.5d21b520.css.map": "/Frontend-Developer-Challenge-4-Accessibility-Integration/static/css/main.5d21b520.css.map",
-    "main.b3a51a98.js.map": "/Frontend-Developer-Challenge-4-Accessibility-Integration/static/js/main.b3a51a98.js.map",
+    "main.27fe4347.css.map": "/Frontend-Developer-Challenge-4-Accessibility-Integration/static/css/main.27fe4347.css.map",
+    "main.01f3bd9b.js.map": "/Frontend-Developer-Challenge-4-Accessibility-Integration/static/js/main.01f3bd9b.js.map",
     "787.41c4a2ad.chunk.js.map": "/Frontend-Developer-Challenge-4-Accessibility-Integration/static/js/787.41c4a2ad.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5d21b520.css",
-    "static/js/main.b3a51a98.js"
+    "static/css/main.27fe4347.css",
+    "static/js/main.01f3bd9b.js"
   ]
 }
